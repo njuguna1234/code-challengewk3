@@ -1,0 +1,26 @@
+{
+  "name": "code-challengewk3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njuguna1234/code-challengewk3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njuguna1234/code-challengewk3/issues"
+  },
+  "homepage": "https://github.com/njuguna1234/code-challengewk3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
